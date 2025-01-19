@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  p{
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  h2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 33px;
+    color: #66BFBF;
+  }
+  
+  h3{
+    font-family: 'Nunito', sans-serif;
+    color: #66BFBF;
+    font-weight: 600;
+  }
+  
+  hr{
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 5%;
+    border: 10px dotted #EAF6F6;
+    border-bottom: none;
+  }
+  
+  header{
+    display: grid;
+    background-color: #EAF6F6;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+  }
+  
+  header span{
+    text-decoration: underline;
+  }
+  
+  header h1{
+    font-family: 'Nunito', sans-serif, cursive;
+    font-size: 60px;
+    color: #66BFBF;
+  }
+  
+  .imgs-header{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .img-cloud{
+    width: 4%;
+    height: 20%;
+    margin-right: 20px;
+  }
+    
+  .img-mountain{
+    width: 15%; 
+  }
+  
+  /* about me section */
+  
+  .about-me{
+    margin-top: 40px;
+  }
+  
+  .img-about-me{
+    border-radius: 50%;
+  }
+  
+  
+  /* my skills section */
+  .skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  
+  .skill-row img{
+    width: 25%;
+    margin-right: 30px;
+    margin-left: 30px;
+  }
+  
+  .left{
+    float: left;
+  }
+  
+  .right{
+    float: right;
+  }
+  
+  
+  /* contact-me section */
+  
+  .contact-me h3{
+    margin-top: 20px;
+  }
+  
+  .contact-me p{
+    margin-top: 40px;
+  }
+  
+  .contact-me button{
+    margin-top: 40px;
+    background-color: #66BFBF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+  }
+  
+  .contact-me button:hover{
+    background-color: #11CDD4;
+  }
+
+  .contact-me h2{
+    margin: 0 0;
+  }
+
+  a{
+    text-decoration: none;
+    color: #EAF6F6;
+  }
+  
+  /* footer */
+  
+  footer{
+    margin-top: 60px;
+    background-color: #66BFBF;
+    padding: 30px 0 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+  }
+  
+  footer a{
+    text-decoration: none;
+    color: #EAF6F6;
+    font-family: 'Nunito', sans-serif;
+    margin: 0px 20px;
+  }
+
+  footer p{
+    margin: 25px 0 0;
+    color: #EAF6F6;
+    font-size: 12px;
+  }
