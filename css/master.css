@@ -45,21 +45,6 @@ body{
     color: #66BFBF;
   }
   
-  .imgs-header{
-    display: flex;
-    justify-content: center;
-  }
-  
-  .img-cloud{
-    width: 4%;
-    height: 20%;
-    margin-right: 20px;
-  }
-    
-  .img-mountain{
-    width: 15%; 
-  }
-  
   /* about me section */
   
   .about-me{
@@ -68,6 +53,7 @@ body{
   
   .img-about-me{
     border-radius: 50%;
+    width: 20%;
   }
 
   /* .about-me p{
