@@ -114,7 +114,7 @@ body{
     margin: 0 0;
   }
 
-  a{
+  .contact-me a{
     text-decoration: none;
     color: #EAF6F6;
   }
@@ -140,4 +140,8 @@ body{
     margin: 25px 0 0;
     color: #EAF6F6;
     font-size: 12px;
+  }
+  .certifications a{
+    text-decoration: none;
+    color: black;
   }
