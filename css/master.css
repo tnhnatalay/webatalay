@@ -19,6 +19,13 @@ body{
     color: #66BFBF;
     font-weight: 600;
   }
+
+  h3 > a{
+    font-family: 'Nunito', sans-serif;
+    color: #66BFBF;
+    font-weight: 600;
+    text-decoration: none;
+  }
   
   hr{
     margin-top: 60px;
@@ -83,6 +90,7 @@ body{
   .right{
     float: right;
   }
+
   
   
   /* contact-me section */
